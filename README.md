@@ -67,8 +67,7 @@
 
 📫 **Contact Me**
 
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)  
-- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
+- LinkedIn: [linkedin.com/in/sudhirsharma03](https://www.linkedin.com/in/sudhirsharma03/)  
 - Email: sudhirsharma9018@gmail.com  
 
 ---
