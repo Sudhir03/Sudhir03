@@ -36,13 +36,13 @@
 
 ## 📌 Featured Projects  
 
-- 🔗 **[GoGuided](https://go-guided.com)**  
+- 🔗 **[GoGuided](https://go-guided.netlify.com)**  
   Trekking & tour guide booking app with maps, payments, and media support.  
 
-- 🔗 **[LearnHub](https://github.com/Sudhir03/learnhub)**  
+- 🔗 **[LearnHub](https://learnhub0.netlify.app)**  
   Online learning resource aggregator with searchable study material.  
 
-- 🔗 **[WeatherNow](https://github.com/Sudhir03/weathernow)**  
+- 🔗 **[WeatherNow](https://sudhir03.github.io/WeatherNow)**  
   Real-time weather application using OpenWeather API.  
 
 ---
