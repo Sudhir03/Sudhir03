@@ -36,7 +36,7 @@
 
 ## 📌 Featured Projects  
 
-- 🔗 **[GoGuided](https://go-guided.netlify.com)**  
+- 🔗 **[GoGuided](https://go-guided.netlify.app/)**  
   Trekking & tour guide booking app with maps, payments, and media support.  
 
 - 🔗 **[LearnHub](https://learnhub0.netlify.app)**  
