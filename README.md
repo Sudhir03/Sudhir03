@@ -55,14 +55,6 @@ Socket.io • WebRTC • Role-Based Access Control
 
 ---
 
-### 🔹 LearnHub — Study Resource Aggregator
-- Searchable platform for learning materials  
-- Clean UI with API-driven data  
-
-🔗 https://learnhub0.netlify.app
-
----
-
 ## 🏆 Achievements
 
 - Solved **260+ DSA problems**  
