@@ -73,6 +73,7 @@ Socket.io • WebRTC • Role-Based Access Control
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sudhir03&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhir03&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sudhir03&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhir03&layout=compact" />
+  <img src="https://streak-stats.demolab.com?user=Sudhir03" />
 </p>
